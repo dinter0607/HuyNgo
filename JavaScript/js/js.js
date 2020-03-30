@@ -1,4 +1,3 @@
-
 function time_startTime() {
     var today = new Date();
     var h = today.getHours();
